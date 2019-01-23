@@ -26,6 +26,25 @@
 
 ### 2.3 怎么去阅读
 
+1.理工科学术论文的要素
 
+- **What**: 这篇文章要解决什么问题？
+- **Why**：这篇文章为什么要解决这个问题？解决这个问题有什么意义？
+  - Importance, implication, relevance
+  - 切入点：现有文献、研究方法
+- **How**: 这篇文章如何解决了这个问题？
+  - Problem formulation, research methods, data, experiments, etc
+- **What**: 这篇文章解决这个问题后得到了什么样的结论？
+  - Conclusions, perspectives, outlook, etc.
+
+1. 论文阅读的类型并判断是否值得读
+
+从调研到了解，到后面的研究，论文的阅读深度应当逐渐增加的，宽度也在慢慢变小。
+
+- 经典综述类文章 review articles (初入某一领域)
+- 经典挖坑类文章 (发现寻找相关的领域研究点)
+- 经典problem formulation, theory, algorithm, experimental design, etc.(经典的问题和通用的解法，以及基本的框架和思想等)
+- 经典教科书 (对整个框架，细节都想了解把握)
+- 其他相关类文章：prerequisite、互补、对比 (相关方法的优劣选择，激发自己的思考点)
 
 
